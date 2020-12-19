@@ -1,7 +1,8 @@
 # ToDo-List
 
 ## Functionalities
-a. Each task consists of
+a. The current user can see all the tasks.
+b. Each task consists of
 
 * i. Task description (required)
   
@@ -13,17 +14,17 @@ a. Each task consists of
 
 * v. Status (active or completed)
   
-b. The current user can create and delete tasks.
+c. The current user can create and delete tasks.
 
-c. The current user can mark a task as completed.
+d. The current user can mark a task as completed.
 
-d. Current user can create and delete categories.
+e. Current user can create and delete categories.
 
-e. Each task category consists of
+f. Each task category consists of
 
 >i. Name
   
-f. When removing a category, all the tasks under this category will have no category.
+g. When removing a category, all the tasks under this category will have no category.
 
 >i. Views.
 
@@ -34,3 +35,11 @@ f. When removing a category, all the tasks under this category will have no cate
 >viii. The user can select a report for a specific week. This report will show the day and the number of the tasks completed per each day and in total.
 
 ## Contributors
+- Samuel Aggor
+- Jarred Crull
+- Sabih Ijaz
+- Md Islam
+- Kyle Janssen
+
+
+
