@@ -3,15 +3,15 @@
 ## Functionalities
 a. Each task consists of
 
->i. Task description (required)
+*i. Task description (required)
   
->ii. Due date (required)
+*ii. Due date (required)
 
->iii. Task category (optional)
+*iii. Task category (optional)
 
->iv. Priority level (optional) (Values: 1-4, where 1 is the highest priority)
+*iv. Priority level (optional) (Values: 1-4, where 1 is the highest priority)
 
->v. Status (active or completed)
+*v. Status (active or completed)
   
 b. The current user can create and delete tasks.
 
