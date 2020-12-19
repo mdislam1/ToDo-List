@@ -1,4 +1,5 @@
 # ToDo-List
+A simple ToDo List web application to organize everyday tasks. 
 
 ## Functionalities
 1. The current user can see all the tasks.
